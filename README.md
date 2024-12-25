@@ -1,6 +1,6 @@
 # LesChat! | Real-time messenger | PERN-GraphQL
 
-Real-time chat app made with PERN + GraphQL - features private, global & group messaging
+Real-time chat app made with PERN + GraphQL - features private, global & group messaging.
 
 ## Demo
 
